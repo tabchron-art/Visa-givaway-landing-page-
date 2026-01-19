@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$1,000 Visa Gift Card Giveaway - Enter Now</title>
+    <meta name="description" content="Enter for a chance to win a $1,000 Visa Gift Card. Eligible U.S. residents can participate in this promotional giveaway.">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#2563eb',
+                        accent: '#1e40af'
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-white text-gray-800 font-sans leading-relaxed">
+
+    <!-- Hero Section -->
+    <section class="bg-gradient-to-b from-blue-50 to-white py-12 px-4 sm:py-20">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-3xl sm:text-5xl font-bold text-gray-900 mb-6 leading-tight">
+                Enter for a Chance to Win a<br>
+                <span class="text-primary">$1,000 Visa Gift Card</span>
+            </h1>
+            <p class="text-lg sm:text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
+                Eligible U.S. residents can participate in a promotional giveaway by completing a short entry form.
+            </p>
+            <a href="#entry-form" class="inline-block bg-primary hover:bg-accent text-white font-semibold py-4 px-8 rounded-lg text-lg transition-colors duration-200 shadow-lg">
+                Check Eligibility & Enter
+            </a>
+        </div>
+    </section>
+
+    <!-- How It Works Section -->
+    <section class="py-16 px-4 bg-gray-50">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-2xl sm:text-3xl font-bold text-center text-gray-900 mb-12">
+                How It Works
+            </h2>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="text-center">
+                    <div class="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center text-xl font-bold mx-auto mb-4">1</div>
+                    <h3 class="text-xl font-semibold mb-3 text-gray-900">Confirm Eligibility</h3>
+                    <p class="text-gray-600">Provide basic details to verify you meet the participation requirements.</p>
+                </div>
+                <div class="text-center">
+                    <div class="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center text-xl font-bold mx-auto mb-4">2</div>
+                    <h3 class="text-xl font-semibold mb-3 text-gray-900">Submit Your Entry</h3>
+                    <p class="text-gray-600">Complete the entry form using a valid email address.</p>
+                </div>
+                <div class="text-center">
+                    <div class="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center text-xl font-bold mx-auto mb-4">3</div>
+                    <h3 class="text-xl font-semibold mb-3 text-gray-900">Winner Selection</h3>
+                    <p class="text-gray-600">Winners are selected according to the promotion's terms and conditions.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Information Section -->
+    <section class="py-16 px-4">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-2xl sm:text-3xl font-bold text-center text-gray-900 mb-12">
+                Important Information
+            </h2>
+            <div class="bg-blue-50 rounded-lg p-8">
+                <ul class="space-y-4 text-gray-700">
+                    <li class="flex items-start">
+                        <svg class="w-6 h-6 text-primary mt-0.5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                        </svg>
+                        <span><strong>No purchase required</strong> to enter or win this promotional giveaway.</span>
+                    </li>
+                    <li class="flex items-start">
+                        <svg class="w-6 h-6 text-primary mt-0.5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                        </svg>
+                        <span>This is a <strong>promotional giveaway</strong> with entry-based participation.</span>
+                    </li>
+                    <li class="flex items-start">
+                        <svg class="w-6 h-6 text-primary mt-0.5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                        </svg>
+                        <span><strong>Winning is not guaranteed</strong> and depends on random selection.</span>
+                    </li>
+                    <li class="flex items-start">
+                        <svg class="w-6 h-6 text-primary mt-0.5 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                        </svg>
+                        <span><strong>Eligibility requirements</strong> include age and location restrictions.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Trust & Transparency Section -->
+    <section class="py-16 px-4 bg-gray-50">
+        <div class="max-w-4xl mx-auto text-center">
+            <h2 class="text-2xl sm:text-3xl font-bold text-gray-900 mb-8">
+                Trust & Transparency
+            </h2>
+            <div class="max-w-2xl mx-auto">
+                <p class="text-gray-700 text-lg leading-relaxed mb-6">
+                    This promotion is conducted independently and is not affiliated with Visa. All entries are subject to the official terms and conditions. Each person is limited to one entry per promotion period.
+                </p>
+                <p class="text-sm text-gray-600">
+                    We are committed to conducting this giveaway fairly and transparently according to applicable regulations.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Final CTA Section -->
+    <section id="entry-form" class="py-16 px-4 bg-white">
+        <div class="max-w-4xl mx-auto text-center">
+            <h2 class="text-2xl sm:text-3xl font-bold text-gray-900 mb-6">
+                Ready to Enter?
+            </h2>
+            <p class="text-lg text-gray-600 mb-8 max-w-xl mx-auto">
+                Complete your entry by clicking the button below and following the eligibility verification process.
+            </p>
+            <a href="#" class="inline-block bg-primary hover:bg-accent text-white font-semibold py-4 px-8 rounded-lg text-lg transition-colors duration-200 shadow-lg">
+                Check Eligibility & Enter Giveaway
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12 px-4">
+        <div class="max-w-4xl mx-auto">
+            <div class="text-center mb-8">
+                <p class="text-sm text-gray-400 mb-4">
+                    This promotion is not sponsored, endorsed, or administered by Visa. Terms and conditions apply.
+                </p>
+                <div class="flex flex-wrap justify-center gap-6 text-sm">
+                    <a href="/privacy-policy" class="text-gray-300 hover:text-white transition-colors">Privacy Policy</a>
+                    <a href="/terms-of-service" class="text-gray-300 hover:text-white transition-colors">Terms of Service</a>
+                </div>
+            </div>
+            <div class="text-center text-xs text-gray-500 border-t border-gray-800 pt-8">
+                <p>&copy; 2024 Promotional Giveaway. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
